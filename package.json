@@ -21,6 +21,12 @@
     "lodash": "^4.17.21"
   },
   "devDependencies": {
-    "prettier": "^3.8.1"
+    "@eslint/create-config": "^1.11.0",
+    "@eslint/js": "^9.39.2",
+    "@stylistic/eslint-plugin": "^5.7.0",
+    "eslint": "^9.39.2",
+    "globals": "^17.0.0",
+    "prettier": "^3.8.1",
+    "typescript-eslint": "^8.53.1"
   }
 }
